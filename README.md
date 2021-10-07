@@ -1,1 +1,3 @@
-# WINE-QUALITY-PREDECTION
+Wine is a beverage made from fermented grape and other fruit juices with lower amount of alcohol content. Quality of wine is rated on the basis of taste of wine and vintage. This process is time consuming, costly and not so efficient. A wine itself contains several parameters like fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulphur dioxides, total sulphur dioxide, density, pH, suplhates, alcohol and quality.
+
+In industries, understanding the demands of wine safety testing can be a complex task for the laboratory with numerous analytes and residues to monitor. But, our application’s prediction, provide ideal solution for the solution of wine, which will make this whole process efficient and cheaper with less human involvement
